@@ -1,3 +1,4 @@
+*.out
 .ipynb_checkpoints
 *.pyc
 credentials.json
