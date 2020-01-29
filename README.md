@@ -16,7 +16,7 @@ wget http://visionandlanguage.net/VIST/json_files/story-in-sequence/SIS-with-lab
 The "vist.py" is able to load both DII and SIS datasets.
 ```bash
 # locate your vist_directory, which contains images and annotations
-vist_dir = '/playpen/data/vist'
+vist_dir = '/data/vist'
 # SIS instance
 sis = vist.Story_in_Sequence(vist_dir)
 # DII instance
